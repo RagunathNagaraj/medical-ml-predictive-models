@@ -6,7 +6,7 @@ The project applies supervised learning algorithms to real-world healthcare data
 
 ---
 
-## 📘 Overview
+##  Overview
 
 This project demonstrates how machine learning models can be used for **medical diagnosis** and **treatment prediction** through two main experiments:
 
@@ -17,7 +17,7 @@ Both tasks involve data preprocessing, feature encoding, model training, evaluat
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 | File | Description |
 |------|--------------|
@@ -30,7 +30,7 @@ Both tasks involve data preprocessing, feature encoding, model training, evaluat
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 ### Data Preparation
 - Loaded and cleaned datasets using `pandas`.  
@@ -66,7 +66,7 @@ Both tasks involve data preprocessing, feature encoding, model training, evaluat
 
 ---
 
-## 📈 Results & Insights
+## Results & Insights
 
 - **Gradient Boosting Classifier** achieved the highest accuracy (~84%).  
 - Regression models showed moderate predictive strength, with Linear and Lasso outperforming Decision Tree Regressor.  
@@ -75,7 +75,7 @@ Both tasks involve data preprocessing, feature encoding, model training, evaluat
 
 ---
 
-## 🧰 Dependencies
+##  Dependencies
 
 ```bash
 pandas
